@@ -1,9 +1,9 @@
 # redes-linux-essentials-aws
 
 #### Topologia
-![[https://github.com/DiogoSis/redes-linux-essentials-aws/topologia]]
+![(https://github.com/DiogoSis/redes-linux-essentials-aws/blob/main/topologia.png)]
 
 #### Ping
 
-![[https://github.com/DiogoSis/redes-linux-essentials-aws/ping]]
+![(https://github.com/DiogoSis/redes-linux-essentials-aws/blob/main/ping.png)]
 
